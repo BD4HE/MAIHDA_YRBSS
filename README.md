@@ -28,6 +28,6 @@ Analysis ready data files are too big to share on GitHub but can be requested.
 
 **On-going work in progress developing interactive YRBSS outcome results**
 
-Intersectional Youth Mental Health Interactive [ [link](https://junaidmerchant.shinyapps.io/YRBSS_MAIHDA/) ] (preview image):
+Intersectional Youth Mental Health Interactive [ [link](https://bd4he.shinyapps.io/YRBSS_MAIHDA/) ] (preview image):
 
 ![Main Figure](https://github.com/JunaidMerchant/MAIHDA_YRBSS/blob/main/Shiny/ShinyApp.png)
