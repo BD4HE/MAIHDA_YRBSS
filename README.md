@@ -23,8 +23,11 @@ Analysis ready data files are too big to share on GitHub but can be requested.
 
 ### /AJE/results: model results and visualizations files
 
+## /LGBTQandRaceSent
 
-## Shiny
+**On-going work in progress examining 7 YRBSS outcomes by 2020 LGBTQ+ Policy Tallies and 2020 Negative Racial Sentiment using I-MAIHDA**
+
+## /Shiny
 
 **On-going work in progress developing interactive YRBSS outcome results**
 
